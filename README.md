@@ -1,4 +1,3 @@
-```markdown
 # OIBSIP Project
 
 Welcome to the OIBSIP repository! This project includes various mini-web applications built using HTML, CSS, and JavaScript. 
@@ -29,7 +28,7 @@ To run the applications locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/harsh038/OIBSIP.git
-   ```
+   
 2. Navigate to the desired project folder.
 3. Open the `index.html` file in your web browser.
 
